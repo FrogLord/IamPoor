@@ -1,8 +1,6 @@
-# I-Am-Poor
-Open this in Xcode to get started.
+# I-Am-Poor App
 
-## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
-
-#I am Poor App Finished
-
+Name:Kurt Galicha
+School ID:
+Date Started: Feb 5,2019
+Date Finished :Feb 6, 2019
