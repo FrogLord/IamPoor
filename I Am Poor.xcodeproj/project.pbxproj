@@ -65,9 +65,9 @@
 				63DE379C1D6DD3EF000AB4B6 /* ViewController.swift */,
 				63DE379E1D6DD3EF000AB4B6 /* Main.storyboard */,
 				63DE37A11D6DD3EF000AB4B6 /* Assets.xcassets */,
+				19732E72220B6FEB005FB2DB /* broke.jpg */,
 				63DE37A31D6DD3EF000AB4B6 /* LaunchScreen.storyboard */,
 				63DE37A61D6DD3EF000AB4B6 /* Info.plist */,
-				19732E72220B6FEB005FB2DB /* broke.jpg */,
 				193D4915220A2F0500CC1C2B /* broke.jpg */,
 			);
 			path = "I Am Poor";
