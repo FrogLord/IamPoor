@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		193D4916220A2F0500CC1C2B /* broke.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 193D4915220A2F0500CC1C2B /* broke.jpg */; };
 		19732E73220B6FEB005FB2DB /* broke.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 19732E72220B6FEB005FB2DB /* broke.jpg */; };
+		19732E77220B742F005FB2DB /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 19732E76220B742F005FB2DB /* readme.md */; };
 		63DE379B1D6DD3EF000AB4B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DE379A1D6DD3EF000AB4B6 /* AppDelegate.swift */; };
 		63DE379D1D6DD3EF000AB4B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63DE379C1D6DD3EF000AB4B6 /* ViewController.swift */; };
 		63DE37A01D6DD3EF000AB4B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 63DE379E1D6DD3EF000AB4B6 /* Main.storyboard */; };
@@ -19,6 +20,7 @@
 /* Begin PBXFileReference section */
 		193D4915220A2F0500CC1C2B /* broke.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = broke.jpg; path = "../../../Image Assets/broke.jpg"; sourceTree = "<group>"; };
 		19732E72220B6FEB005FB2DB /* broke.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = broke.jpg; path = "../../../Image Assets/broke.jpg"; sourceTree = "<group>"; };
+		19732E76220B742F005FB2DB /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		63DE37971D6DD3EF000AB4B6 /* I Am Poor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "I Am Poor.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		63DE379A1D6DD3EF000AB4B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		63DE379C1D6DD3EF000AB4B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -42,6 +44,7 @@
 		63DE378E1D6DD3EF000AB4B6 = {
 			isa = PBXGroup;
 			children = (
+				19732E76220B742F005FB2DB /* readme.md */,
 				63DE37991D6DD3EF000AB4B6 /* I Am Poor */,
 				63DE37981D6DD3EF000AB4B6 /* Products */,
 			);
@@ -133,6 +136,7 @@
 				19732E73220B6FEB005FB2DB /* broke.jpg in Resources */,
 				63DE37A21D6DD3EF000AB4B6 /* Assets.xcassets in Resources */,
 				63DE37A01D6DD3EF000AB4B6 /* Main.storyboard in Resources */,
+				19732E77220B742F005FB2DB /* readme.md in Resources */,
 				193D4916220A2F0500CC1C2B /* broke.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
