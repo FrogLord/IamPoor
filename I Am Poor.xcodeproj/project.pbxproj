@@ -44,9 +44,9 @@
 		63DE378E1D6DD3EF000AB4B6 = {
 			isa = PBXGroup;
 			children = (
-				19732E76220B742F005FB2DB /* readme.md */,
 				63DE37991D6DD3EF000AB4B6 /* I Am Poor */,
 				63DE37981D6DD3EF000AB4B6 /* Products */,
+				19732E76220B742F005FB2DB /* readme.md */,
 			);
 			sourceTree = "<group>";
 		};
