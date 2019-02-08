@@ -1,7 +1,8 @@
 # I-Am-Poor App
 
 Name:Kurt Galicha
-School ID:
+
+School ID: 1034957
 
 Date Started: Feb 5,2019
 
